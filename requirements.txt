@@ -1,0 +1,9 @@
+openai
+chromadb
+langchain
+langchain_openai
+langchain-community
+#faiss-cpu
+#weaviate-client
+neo4j
+python-dotenv
